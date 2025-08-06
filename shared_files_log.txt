@@ -1,0 +1,9 @@
+# Shared Files Log – Kurdish ASR Project
+
+Date: 2025-08-06  
+Shared With: Dr. Mohammad Mohammadamini: emini.aran@gmail.com 
+Folder: Kurdish_ASR_Data  
+Access Level: Editor  
+Expiration Date: 2025-10-06  
+Download Disabled: No
+Notes: Initial dataset shared for ASR model development
