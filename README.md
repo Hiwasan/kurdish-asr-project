@@ -156,9 +156,10 @@ This is a focused research collaboration between domain experts and technical sp
 3. Regular technical sync meetings for progress alignment
 4. Pull request reviews for code quality assurance
 
-## License & Usage
+## License
 
-This project is licensed under the MIT License - see 'LICENSE' file for details.
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). Commercial use is strictly prohibited.
+
 
 **Important**: The linguistic corpus data is proprietary and subject to separate access agreements. The codebase and technical innovations are open for research use under the specified license.
 
@@ -223,8 +224,8 @@ The current Kurdish ASR system is being developed privately by Dr. Hiwa Asadpour
 ## Contact & Collaboration
 
 For technical questions, data access requests, or collaboration inquiries, please contact the project leads through established communication channels.
-Dr. Hiwa Asadpour: asadpourhiwa@gmail.com
-Dr. Mohammad Mohammadamini: emini.aran@gmail.com 
+- Dr. Hiwa Asadpour: asadpourhiwa@gmail.com
+- Dr. Mohammad Mohammadamini: emini.aran@gmail.com 
 
 ---
 
