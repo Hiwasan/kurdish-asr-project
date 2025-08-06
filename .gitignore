@@ -1,0 +1,21 @@
+# Audio and linguistic data files
+*.wav
+*.mp3
+*.flac
+*.m4a
+data/corpus/
+data/recordings/
+data/transcriptions/
+*.transcription
+*.translation
+
+# Experiment outputs
+results/
+models/
+checkpoints/
+logs/
+
+# Configuration files with sensitive data
+config_local.yaml
+secrets.yaml
+.env.local
