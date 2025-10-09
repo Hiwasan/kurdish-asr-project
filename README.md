@@ -20,6 +20,13 @@ Led by Dr. Hiwa Asadpour (Principal Investigator) — a PhD-trained typological 
 - Coordination of community networks and validation processes
 - Research design, grant strategy, and interdisciplinary collaboration
 
+- **Technical & ML Leadership**: 
+Led by Dr. Mohammad Mohammadamini — ASR specialist with machine learning and system design expertise.
+- End-to-end ASR pipeline development
+- Model architecture, training, and performance evaluation
+- Technical optimization and deployment
+- Reproducibility and documentation standards
+
 ## Project Structure
 
 '''
@@ -140,7 +147,7 @@ This project is licensed under the [Creative Commons Attribution-NonCommercial 4
 - Commercial applications exploration
 
 ## Project Context & Broader Collaboration
-This ASR project is currently under development by Dr. Hiwa Asadpour.
+This ASR project is currently under development by Dr. Hiwa Asadpour and Dr. Mohammad Mohammadamini, as part of a broader academic collaboration.
 
 The work is also linked to a larger cross-border research initiative led by Dr. Hiwa Asadpour as Principal Investigator:
 
@@ -176,11 +183,13 @@ A joint initiative (DFG proposal under review) between:
 
         Technical University of Liberec (Czech Republic)
 
+The current Kurdish ASR system is being developed privately by Dr. Hiwa Asadpour and Dr. Mohammad Mohammadamini under this umbrella, and results will be shared with the wider CLaST team and network in upcoming phases.
 
 ## Contact & Collaboration
 
 For technical questions, data access requests, or collaboration inquiries, please contact the project leads through established communication channels.
 - Dr. Hiwa Asadpour: asadpourhiwa@gmail.com
+- Dr. Mohammad Mohammadamini: emini.aran@gmail.com 
 
 ---
 
