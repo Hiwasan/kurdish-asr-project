@@ -20,14 +20,23 @@ This project addresses the critical gap in speech recognition technology for Kur
 
 ## Project Structure
 kurdish-asr-project/
+
 ├── src/ # Core source code
+
 │ ├── preprocessing/ # Audio and text preprocessing pipelines
+
 │ ├── models/ # ASR model architectures and training
+
 │ ├── evaluation/ # Performance metrics and evaluation tools
+
 │ └── utils/ # Shared utilities and helper functions
+
 ├── configs/ # Configuration files for different experiments
+
 ├── scripts/ # Training, evaluation, and deployment scripts
+
 ├── docs/ # Technical documentation and research notes
+
 └── data/ # Data access documentation
 
 
